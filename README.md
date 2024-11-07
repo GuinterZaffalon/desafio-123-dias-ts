@@ -1,5 +1,5 @@
 # desafio-logica-typescript
-Exercícios de lógica da programação em Java
+Exercícios de lógica da programação em Typescript
 
 - [x]  1 . Calcule a média de duas notas e mostre a média aritmética obtida.
 - [x]  2 . Leia o nome de uma pessoa, a sua idade e o seu salário, e mostre essas informações.
